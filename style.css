@@ -1,0 +1,64 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.principal{
+  display: flex;
+  flex-direction: row;
+}
+.secundaria{
+  width: 50%;
+  height: 100vh;
+ background-color:#835AFD ;
+ color: white;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.terceira{
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.botao1{
+  background-color: red;
+  height: 40px;
+  width: 200px;
+  left: 898px;
+  top: 350px;
+  border-radius: 8px;
+  padding: 13px, 116px, 13px, 116px;
+  color: white;
+  
+}
+h6{
+  
+  color: gray;
+}
+button{
+  margin-top: 10px;
+}
+.botao2{
+  background-color: #835AFD;
+  height: 40px;
+  width: 200px;
+  left: 898px;
+  top: 350px;
+  border-radius: 8px;
+  padding: 13px, 116px, 13px, 116px;
+  color: white;
+}
+input{
+  height: 30px;
+  width: 190px;
+  left: 898px;
+  top: 480px;
+  border-radius: 8px;
+  padding: 13px, 12px, 13px, 16px;
+  
+}
